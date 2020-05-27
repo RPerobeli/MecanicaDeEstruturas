@@ -9,5 +9,4 @@ Trabalho desenvolvido por:
 
 e orientado por:
 Patricia Habib Hallak (patricia.hallak@ufjf.edu.br),
-
 Afonso Celso de Castro Lemonge (afonso.lemonge@ugjg.edu.br).
